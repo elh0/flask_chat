@@ -1,0 +1,25 @@
+{
+  "name": "flask_chat",
+  "version": "1.0.0",
+  "description": "This is a chat application written in Flask. The purpose of this project is to take data from a URL and store the information in a list",
+  "main": "run.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elh0/flask_chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elh0/flask_chat/issues"
+  },
+  "homepage": "https://github.com/elh0/flask_chat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts":{
+    "start": "node run.py"
+  }
+}
