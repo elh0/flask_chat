@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/elh0/flask_chat#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "scripts":{
     "start": "node run.py"
